@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mydbapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="amin_txvId">商品コード</string>
+    <string name="amin_txvName">商品名</string>
+    <string name="amin_txvPrice">値段</string>
+    <string name="amin_btnInsert">追加</string>
+    <string name="amin_btnUpdate">更新</string>
+    <string name="amin_btnDelete">削除</string>
+</resources>
